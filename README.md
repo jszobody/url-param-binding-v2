@@ -2,6 +2,12 @@
 
 This repo provides a minimal working example of url parameter binding in Livewire v2.
 
+Component: https://github.com/jszobody/url-param-binding-v2/blob/main/app/Http/Livewire/Binding.php
+
+View: https://github.com/jszobody/url-param-binding-v2/blob/main/resources/views/livewire/binding.blade.php
+
+## Example
+
 1. Visit /binding/1 in your browser
 2. Click on any of the links to update the value, watch the URL change
 
