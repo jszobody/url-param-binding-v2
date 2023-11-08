@@ -13,7 +13,7 @@ class Binding extends Component
         $this->foo = $foo;
     }
 
-    public function set($foo)
+    public function setFoo($foo)
     {
         $this->foo = $foo;
     }
